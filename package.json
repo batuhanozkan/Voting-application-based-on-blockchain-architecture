@@ -21,7 +21,7 @@
     "ethereumjs-util": "^6.1.0",
     "express": "^4.16.4",
     "i": "^0.3.6",
-    "jspdf": "^1.5.3",
+    "jspdf": "^2.3.1",
     "keythereum": "^1.0.4",
     "moment": "^2.24.0",
     "npm": "^6.9.0",
